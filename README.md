@@ -10,6 +10,13 @@ An editable, stylized astronaut helmet modeled in Blender — white shell with a
 | --- | --- |
 | `Astronaut_Helmet_Editable.blend` | Blender scene with the full editable model, materials and lighting |
 | `Astronaut_Helmet_Preview.png` | Rendered preview of the helmet |
+| `chatgpt-image.png` | AI-generated concept reference (ChatGPT) the model was based on |
+
+## Reference
+
+The model was built from this AI-generated concept image, made with ChatGPT:
+
+![ChatGPT reference image](chatgpt-image.png)
 
 ## Usage
 
